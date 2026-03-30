@@ -1,9 +1,6 @@
-# My NumPy Practice Space 🔢
+# Learning NumPy 🔢
 
-Welcome to my dedicated NumPy repository!
+Hey! This is where I'm keeping all my practice scripts for NumPy.
 
-As I got deeper into Python, I realized my data science and array manipulation practice deserved its own clean, focused space. So, I spun off all my `NumPy` code from my main Python repo and brought it here.
+I started this to have a clean spot specifically for array stuff and math. It's mostly just me getting used to handling data without a million loops. Still learning, one day at a time!
 
-This repo is filled with my daily practice sessions specifically focused on `numpy`—working with N-dimensional arrays, matrix operations, data reshaping, and doing cool linear algebra stuff.
-
-It's basically a log of my journey getting comfortable with numerical computing in Python. Dive into the folders (organized by day) to check out my scripts and exercises as I figure out how to handle big sets of data without writing tons of loops!
